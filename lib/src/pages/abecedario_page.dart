@@ -8,7 +8,6 @@ class AbecedarioPage extends StatefulWidget {
 }
 
 class _AbecedarioPageState extends State<AbecedarioPage> {
-  String a = "a";
   String letra = "A";
   int numero = 65;
   @override
